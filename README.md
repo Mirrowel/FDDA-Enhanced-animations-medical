@@ -14,3 +14,17 @@ Bandage replaced.
 All the injector animations use the gunslinger injector one.
 Exo animations added.
 That is it. There really arent that many of them.
+
+REQUIRES FDDA(this is an extension to it).
+Like the original mod, Possibly requires THAP
+
+Credits:
+Uknown person who ported all the animations from gunslinger
+
+## Update 1.1
+
+- Reduced the time between bandage animation finish and weapon pull out
+
+## Update 13.09.2023
+
+- Fixed a leftover file i forgot to remove and a scientific medkit in exo had a typo in the config.
