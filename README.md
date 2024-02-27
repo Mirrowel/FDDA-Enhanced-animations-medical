@@ -1,3 +1,5 @@
+# FDDA Enhanced Animations(Medical) [![License](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0UZS4P)
+
 A collection of medical item animations, models and textures for FDDA. Sister mod to FDDA Enhanced Animations - Food and drinks.
 As many items as possible were converted to fancier gunslinger animations.
 Some items had their use sounds replaced/enhanced.
@@ -20,6 +22,12 @@ Like the original mod, Possibly requires THAP
 
 Credits:
 Uknown person who ported all the animations from gunslinger
+
+## Update 1.1B
+- Added the MCM unlocker by default to fix the skinning problem. It has everything disabled by default to not mess with gamma and other modpacks.
+
+## Hotfix to 1.1A
+- Removed mistakenly included missing animation for a tourniquet
 
 ## Update 1.1
 
