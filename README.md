@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0UZS4P)
+
 A collection of medical item animations, models and textures for FDDA. Sister mod to FDDA Enhanced Animations - Food and drinks.
 As many items as possible were converted to fancier gunslinger animations.
 Some items had their use sounds replaced/enhanced.
