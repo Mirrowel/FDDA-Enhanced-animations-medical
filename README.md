@@ -23,8 +23,12 @@ Like the original mod, Possibly requires THAP
 Credits:
 Uknown person who ported all the animations from gunslinger
 
+## Update 1.1C
+- Fixed override in mod_animations_settings_othermeds_bhsro.ltx.
+- Improved compatibility for exo suits,better knife handling for skinning in enhanced_animations.script.
+
 ## Update 1.1B
-- Added the MCM unlocker by default to fix the skinning problem. It has everything disabled by default to not mess with gamma and other modpacks.
+- Added the MCM unlocker by default to fix the skinning problem. It has everything disabled by default to not mess with gamma and other modpacks.(not elegant, but better than not having that)
 
 ## Hotfix to 1.1A
 - Removed mistakenly included missing animation for a tourniquet
